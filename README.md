@@ -1,1 +1,1 @@
-# teste-js-msal2.0
+# Testando a criação de um Single Page Application utilizando JavaScript e MSAL 2.0
