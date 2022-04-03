@@ -1,0 +1,1 @@
+# teste-js-msal2.0
